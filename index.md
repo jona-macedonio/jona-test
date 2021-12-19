@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jonathan Macedonio
 
 You can use the [editor on GitHub](https://github.com/jona-macedonio/jona-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
